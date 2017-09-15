@@ -1,6 +1,6 @@
 import os
 import re
-from urllib.request import urlopen
+from urllib2 import urlopen
 
 import youtube_dl
 
